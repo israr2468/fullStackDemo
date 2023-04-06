@@ -1,0 +1,5 @@
+### 
+GET http://localhost:5432/
+
+###  GET ALL STUDENTS
+GET http://localhost:5432/students
